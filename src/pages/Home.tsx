@@ -31,7 +31,7 @@ const Home = () => {
                   <span className="text-white font-bold text-lg">🌸</span>
                 </div>
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-pink-600 to-primary bg-clip-text text-transparent">
-                  A Nails
+                  Nail Pro
                 </h1>
               </div>
               
@@ -74,7 +74,7 @@ const Home = () => {
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <div className='flex items-center justify-center'>
               <div className="mb-8">
-                <img src="/icon.png" alt="" className="w-48 md:w-72" />
+                <img src="/nailproicon.png" alt="" className="w-48 md:w-72" />
               </div>
               <h2 className="text-4xl md:text-6xl font-bold text-gray-800 mb-6">
                 Where Beauty
@@ -204,7 +204,7 @@ const Home = () => {
               </h3>
               <div className="w-24 h-1 bg-gradient-to-r from-pink-500 to-purple-500 mx-auto mb-4"></div>
               <p className="text-gray-600 max-w-2xl mx-auto">
-                Book your appointment and experience the luxury of A Nails
+                Book your appointment and experience the luxury of Nail Pro
               </p>
             </div>
 
@@ -257,7 +257,7 @@ const Home = () => {
               </div>
 
               <div className="bg-white rounded-2xl p-2 shadow-lg h-150 md:h-100">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3190.5540768600076!2d-76.25849772280534!3d36.90101466200781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ba9742637fd701%3A0xf787139295ff00ee!2sA%20Nails!5e0!3m2!1sen!2sus!4v1754508512924!5m2!1sen!2sus"
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3189.922164481145!2d-76.22204012280497!3d36.916125361154016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89ba96d492dae269%3A0xfd4ea355f7dca49a!2sNailpro!5e0!3m2!1sen!2sus!4v1754941829728!5m2!1sen!2sus"
                  className='w-full h-full border-0' loading="lazy"></iframe>
               </div>
             </div>
@@ -273,7 +273,7 @@ const Home = () => {
                   <div className="w-8 h-8 bg-gradient-to-r from-secondary to-primary rounded-full flex items-center justify-center">
                     <span className="text-white font-bold">🌸</span>
                   </div>
-                  <h5 className="text-xl font-bold">A Nails</h5>
+                  <h5 className="text-xl font-bold">Nail Pro</h5>
                 </div>
                 <p className="text-gray-400">
                   Where beauty blooms and dreams come true. Experience luxury nail care like never before.
@@ -301,7 +301,7 @@ const Home = () => {
             </div>
             
             <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-              <p>&copy; 2025 A Nails Salon. All rights reserved.</p>
+              <p>&copy; 2025 Nail Pro Salon. All rights reserved.</p>
             </div>
           </div>
         </footer>
